@@ -1,0 +1,9 @@
+2026-10-20 16:26:27 - INFO  - Starting NwtLogxMiddlewareApplication using Java 17.0.15 on couto with PID 52824 (C:\DEV\workspace-nwt\middleware\download_middleware\nwt-logx-middleware.jar started by EduardoCouto in C:\DEV\workspace-nwt\middleware\download_middleware)
+2026-10-20 16:26:27 - INFO  - No active profile set, falling back to 1 default profile: "default"
+2026-10-20 16:26:27 - INFO  - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-10-20 16:26:27 - INFO  - Finished Spring Data repository scanning in 20 ms. Found 0 JPA repository interfaces.
+2026-10-20 16:26:28 - INFO  - BeanFactory id=08a08a1c-3439-3dfa-a486-5431d65d4dcf
+2026-10-20 16:26:28 - INFO  - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-10-20 16:26:28 - INFO  - HHH000412: Hibernate ORM core version 5.6.14.Final
+2026-10-20 16:26:29 - INFO  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2026-10-20 16:26:29 - INFO  - HikariPool-1 - Starting...
